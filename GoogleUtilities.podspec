@@ -21,7 +21,7 @@ other Google CocoaPods. They're not intended for direct public usage.
   s.osx.deployment_target = '10.11'
   s.tvos.deployment_target = '10.0'
 
-  s.cocoapods_version = '>= 1.4.0'
+  s.cocoapods_version = '>= 1.3.1'
   s.prefix_header_file = false
 
   s.subspec 'Environment' do |es|

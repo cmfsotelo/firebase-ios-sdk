@@ -22,7 +22,7 @@ services.
   s.osx.deployment_target = '10.11'
   s.tvos.deployment_target = '10.0'
 
-  s.cocoapods_version = '>= 1.4.0'
+  s.cocoapods_version = '>= 1.3.1'
   s.static_framework = true
   s.prefix_header_file = false
 
